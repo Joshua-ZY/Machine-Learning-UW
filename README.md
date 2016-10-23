@@ -1,2 +1,2 @@
 # Machine-Learning-UW
-Machine Learning @ University of Washington
+Machine Learning taught by Carlos Guestrin & Emily Fox @ University of Washington
